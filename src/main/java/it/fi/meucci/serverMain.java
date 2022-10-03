@@ -5,7 +5,4 @@ public class serverMain {
         serverThread servente = new serverThread(null);
         servente.run();
     }
-    public static void main (String[]args){
-    }
-
 }
